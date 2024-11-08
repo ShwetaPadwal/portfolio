@@ -1,0 +1,30 @@
+body{
+    border: 2ap solid;
+    background-color: aliceblue;
+}
+footer{
+    margin: 20px;
+    border: solid;
+    height: 80px;
+    width: auto;
+    border-radius: 20px;
+}
+.col{
+    padding: 30px;
+    text-align: left;
+    border: 2px solid;
+    border-radius: 25px;
+}
+.row h3{
+    box-sizing: border-box;
+    padding: auto;
+    text-align: center;
+}
+.col-md-3{
+    height: 200px;
+    width: 200px;
+}
+
+
+
+
